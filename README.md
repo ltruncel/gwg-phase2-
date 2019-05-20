@@ -1,4 +1,6 @@
-# Mobile Web Specialist Certification Course
+##This is a project I completed during phase 2 of the Grow With Google Scholarship program through Udacity. Following are the instructions from Udacity regarding how this project should be completed.
+
+##Following is the original Readme from Udacity with instructions to complete the project.
 ---
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
